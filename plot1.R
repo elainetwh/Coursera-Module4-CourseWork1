@@ -11,7 +11,3 @@ hist(dt.filter$Global_active_power,
      xlab="Global Active Power (kilowatts)", 
      main="Global Active Power")
 dev.off()
-
-
-#data$Date <- as.Date(data$Date, format="%d/%m/%y")
-#data$Time <- strptime(data$Time, format="%H:%M:%S")
