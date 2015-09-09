@@ -15,5 +15,3 @@ dev.off()
 
 #data$Date <- as.Date(data$Date, format="%d/%m/%y")
 #data$Time <- strptime(data$Time, format="%H:%M:%S")
-
-Enter file contents here
