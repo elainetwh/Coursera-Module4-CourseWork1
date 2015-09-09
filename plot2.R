@@ -13,7 +13,3 @@ png(filename="plot2.png", width=480, height=480)
 plot(dt.filter$DateTime, dt.filter$Global_active_power, typ='l', xlab="", ylab="Global Active Power (kilowatts)")
 
 dev.off()
-
-
-#data$Date <- as.Date(data$Date, format="%d/%m/%y")
-#data$Time <- strptime(data$Time, format="%H:%M:%S")
