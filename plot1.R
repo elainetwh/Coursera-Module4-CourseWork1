@@ -1,4 +1,4 @@
-library(data.table)
+###library(data.table)
 dt<-fread("../data/household_power_consumption.txt", na.strings="?")
 
 dt$strDate <- as.Date(dt$Date,"%d/%m/%Y")
