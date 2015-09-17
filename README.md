@@ -29,11 +29,6 @@ web site</a>:
 </ol>
 
 ## Loading the data
-
-
-
-
-
 When loading the dataset into R, please consider the following:
 
 * The dataset has 2,075,259 rows and 9 columns. First
@@ -61,7 +56,7 @@ reconstruct the following plots below, all of which were constructed
 using the base plotting system.
 
 First you will need to fork and clone the following GitHub repository:
-[https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
+https://github.com/elainetwh/Coursera-Module4-CourseWork1
 
 
 For each plot you should
